@@ -1,0 +1,5 @@
+{
+  "name": "oyun1",
+  "description": "A neon-styled puzzle game where you arrange and rotate time pieces to restore the correct chronological sequence.",
+  "requestFramePermissions": []
+}
